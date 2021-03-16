@@ -4,6 +4,10 @@ quand vous faites une modif, il faut la signé comme sa on sait qui a fait quoi
 
 *mohamed teste
 
+<<<<<<< HEAD
 *QUENTIN Test
 
 c'est encore mohamed, je cable parce que je n'arrive pas a envoyé des modif
+=======
+Moi je teste * Jonathan
+>>>>>>> add71b88c2b17d7c46d7b61619a12e2705fe63d8
