@@ -6,4 +6,8 @@ quand vous faites une modif, il faut la signé comme sa on sait qui a fait quoi
 
 *QUENTIN Test
 
+<<<<<<< HEAD
 c'est encore mohamed, je cable parce que je n'arrive pas a envoyé des modif
+=======
+estelle test
+>>>>>>> 8d6714134cdd0930208cd10f99735d7c2a77b074
